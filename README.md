@@ -186,3 +186,4 @@ You can deploy this project using Netlify's free plan:
 - Implement a restart button after reaching the final image
 - Add sound effects for button clicks and transitions
 
+# giftfortim
